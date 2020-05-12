@@ -30,7 +30,7 @@ footer {
   flex-direction: column;
 }
 
-item { 
+.item { 
   height: 100px;
   width: 100px;
   margin: 5px;
